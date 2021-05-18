@@ -1,0 +1,23 @@
+{
+  "name": "heroku-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polbac/heroku-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polbac/heroku-start/issues"
+  },
+  "homepage": "https://github.com/polbac/heroku-start#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
